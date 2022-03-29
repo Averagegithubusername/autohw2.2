@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6ue5bohq05u3wros?svg=true)](https://ci.appveyor.com/project/Averagegithubusername/autohw2-2)
